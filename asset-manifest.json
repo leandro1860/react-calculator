@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/leandro1860/react-calculator/static/css/main.51dd3ffc.chunk.css",
+    "main.js": "/leandro1860/react-calculator/static/js/main.d24735be.chunk.js",
+    "main.js.map": "/leandro1860/react-calculator/static/js/main.d24735be.chunk.js.map",
+    "runtime-main.js": "/leandro1860/react-calculator/static/js/runtime-main.4db2c65a.js",
+    "runtime-main.js.map": "/leandro1860/react-calculator/static/js/runtime-main.4db2c65a.js.map",
+    "static/js/2.66696aac.chunk.js": "/leandro1860/react-calculator/static/js/2.66696aac.chunk.js",
+    "static/js/2.66696aac.chunk.js.map": "/leandro1860/react-calculator/static/js/2.66696aac.chunk.js.map",
+    "index.html": "/leandro1860/react-calculator/index.html",
+    "precache-manifest.3f1ef3a396db0c395f8e75b3d86c60d8.js": "/leandro1860/react-calculator/precache-manifest.3f1ef3a396db0c395f8e75b3d86c60d8.js",
+    "service-worker.js": "/leandro1860/react-calculator/service-worker.js",
+    "static/css/main.51dd3ffc.chunk.css.map": "/leandro1860/react-calculator/static/css/main.51dd3ffc.chunk.css.map",
+    "static/js/2.66696aac.chunk.js.LICENSE.txt": "/leandro1860/react-calculator/static/js/2.66696aac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4db2c65a.js",
+    "static/js/2.66696aac.chunk.js",
+    "static/css/main.51dd3ffc.chunk.css",
+    "static/js/main.d24735be.chunk.js"
+  ]
+}
